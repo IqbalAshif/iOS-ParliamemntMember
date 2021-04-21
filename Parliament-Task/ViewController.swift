@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  Parliament-Task
+//
+//  Created by iosdev on 19.4.2021.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+        
+    }
+
+
+}
+
